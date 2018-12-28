@@ -10,3 +10,11 @@ print(a)
 a = 10
 a = a + 20
 print(a)
+
+a = 10
+a += 20
+print(a)
+
+x = -10
+print(+x)
+print(-x)
