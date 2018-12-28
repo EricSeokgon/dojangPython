@@ -8,3 +8,11 @@ print(x)
 
 x = input('문자열을 입력하세요: ')
 print(x)
+
+# 두 숫자의 합 구하기
+a = input('첫 번째 숫자를 입려하세요: ')
+b = input('두 번째 숫자를 입려하세요: ')
+print(a + b)
+
+a = input()
+print(type(a))
