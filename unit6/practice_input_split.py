@@ -1,7 +1,2 @@
-a = 50
-b = 100
-c = None
-
-print(a)
-print(b)
-print(c)
+a,b,c,d=map(int, input().split())
+print(int((a+b+c+d)/4))
