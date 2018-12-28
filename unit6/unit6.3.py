@@ -16,3 +16,9 @@ print(a + b)
 
 a = input()
 print(type(a))
+
+#입력 값을 정수로 변환하기
+a = int(input('첫 번째 숫자를 입려하세요: '))
+b = int(input('두 번째 숫자를 입려하세요: '))
+print(a + b)
+
